@@ -6,9 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dubey-parth&label=Profile%20views&color=0e75b6&style=flat" alt="dubey-parth" />
   &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dubey-parth&theme=radical" alt="dubey-parth" />
-  </a>
+  
 </p>
 
 ---
