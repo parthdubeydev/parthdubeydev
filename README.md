@@ -4,7 +4,7 @@
 
 <!-- Profile Views & Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dubey-parth&label=Profile%20views&color=0e75b6&style=flat" alt="dubey-parth" />
+  <img src="https://komarev.com/ghpvc/?username=parthdubeydev&label=Profile%20views&color=0e75b6&style=flat" alt="parthdubeydev" />
   &nbsp;
   
 </p>
@@ -59,14 +59,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dubey-parth&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdubeydev&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=dubey-parth&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthdubeydev&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
 </p>
 
 ---
 
 ## 📈 Contributions
 <p align="center">
-  <img src="https://ghchart.rshah.org/dubey-parth" alt="GitHub Contributions" height="150"/>
+  <img src="https://ghchart.rshah.org/parthdubeydev" alt="GitHub Contributions" height="150"/>
 </p>
