@@ -65,8 +65,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthdubeydev&show_icons=true&locale=en" alt="parthdubeydev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthdubeydev&" alt="parthdubeydev" /></p>
-</p>
+
 
 ---
 
