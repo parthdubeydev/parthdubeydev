@@ -1,0 +1,87 @@
+<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="50%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 42px; font-weight: 700; fill: #f8fafc; letter-spacing: -1px; }
+      .role { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; font-weight: 400; fill: #94a3b8; letter-spacing: 0.5px; }
+      .tag  { font-family: 'Courier New', monospace; font-size: 13px; fill: #38bdf8; }
+      .dot  { fill: #38bdf8; }
+      .bar-bg { fill: #1e293b; rx: 3; }
+      @keyframes pulse { 0%,100%{opacity:.6} 50%{opacity:1} }
+      @keyframes slide { from{stroke-dashoffset:200} to{stroke-dashoffset:0} }
+      .accent-line { stroke-dasharray: 200; stroke-dashoffset: 200; animation: slide 1.4s ease forwards; }
+      .blink { animation: pulse 2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="180" fill="url(#bg)" rx="12"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.06" stroke="#38bdf8" stroke-width="0.5">
+    <line x1="0" y1="45" x2="860" y2="45"/>
+    <line x1="0" y1="90" x2="860" y2="90"/>
+    <line x1="0" y1="135" x2="860" y2="135"/>
+    <line x1="215" y1="0" x2="215" y2="180"/>
+    <line x1="430" y1="0" x2="430" y2="180"/>
+    <line x1="645" y1="0" x2="645" y2="180"/>
+  </g>
+
+  <!-- Left accent dots -->
+  <circle class="dot blink" cx="36" cy="36" r="3"/>
+  <circle cx="36" cy="36" r="8" fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.4"/>
+  <circle class="dot" cx="56" cy="36" r="2" opacity="0.5"/>
+  <circle class="dot" cx="72" cy="36" r="2" opacity="0.3"/>
+
+  <!-- Code bracket decorations -->
+  <text class="tag" x="36" y="80" opacity="0.5">&lt;dev&gt;</text>
+  <text class="tag" x="36" y="158" opacity="0.5">&lt;/dev&gt;</text>
+
+  <!-- Right corner decoration -->
+  <text class="tag" x="768" y="28" opacity="0.35">{ }</text>
+  <text class="tag" x="756" y="158" opacity="0.25">// C#</text>
+
+  <!-- Main name -->
+  <text class="name" x="140" y="90">Parth Dubey</text>
+
+  <!-- Accent underline animated -->
+  <line x1="140" y1="98" x2="480" y2="98" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" class="accent-line"/>
+
+  <!-- Role -->
+  <text class="role" x="141" y="126">Full Stack .NET Developer  ·  Promena LLP</text>
+
+  <!-- Tech pills -->
+  <rect x="141" y="142" width="40" height="18" rx="4" fill="#1e40af" opacity="0.7"/>
+  <text style="font-family:Arial,sans-serif;font-size:10px;fill:#bfdbfe;font-weight:600" x="161" y="155" text-anchor="middle">C#</text>
+
+  <rect x="189" y="142" width="76" height="18" rx="4" fill="#1e40af" opacity="0.7"/>
+  <text style="font-family:Arial,sans-serif;font-size:10px;fill:#bfdbfe;font-weight:600" x="227" y="155" text-anchor="middle">ASP.NET Core</text>
+
+  <rect x="273" y="142" width="54" height="18" rx="4" fill="#7c1d1d" opacity="0.8"/>
+  <text style="font-family:Arial,sans-serif;font-size:10px;fill:#fca5a5;font-weight:600" x="300" y="155" text-anchor="middle">Angular</text>
+
+  <rect x="335" y="142" width="68" height="18" rx="4" fill="#134e1e" opacity="0.8"/>
+  <text style="font-family:Arial,sans-serif;font-size:10px;fill:#86efac;font-weight:600" x="369" y="155" text-anchor="middle">SQL Server</text>
+
+  <rect x="411" y="142" width="54" height="18" rx="4" fill="#312e81" opacity="0.8"/>
+  <text style="font-family:Arial,sans-serif;font-size:10px;fill:#c4b5fd;font-weight:600" x="438" y="155" text-anchor="middle">MongoDB</text>
+
+  <!-- Right side: status indicator -->
+  <circle cx="720" cy="90" r="5" fill="#22c55e" class="blink"/>
+  <text style="font-family:Arial,sans-serif;font-size:12px;fill:#94a3b8" x="733" y="94">Open to work</text>
+
+  <!-- Vertical accent bar -->
+  <rect x="122" y="60" width="3" height="80" fill="url(#accent)" rx="2"/>
+</svg>
