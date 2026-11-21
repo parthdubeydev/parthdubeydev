@@ -1,10 +1,10 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:512bd4&height=200&section=header&text=Parth%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:512bd4&height=200&section=header&text=Parth%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=.NET%20Backend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Parth Dubey, .NET Backend Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+SQL;Turning+business+problems+into+clean+software" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+reliable+APIs+and+backend+systems;C%23+%7C+ASP.NET+Core+%7C+MongoDB+%7C+SQL;Turning+business+problems+into+clean+software" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -14,24 +14,24 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parthdubeydev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:parthdubeydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://zookout.com"><img src="https://img.shields.io/badge/Zookout-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/parthdubeydev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:parthdubeydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zookout.com"><img src="https://img.shields.io/badge/Zookout-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zookout" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack .NET Developer at Promena LLP**, building web applications end to end: secure REST APIs and databases on the backend, and responsive Angular interfaces on the frontend. I care about clean architecture, readable code, and software that solves a real business problem.
+I'm a **.NET Core Developer at Promena LLP** in Bengaluru. I build production REST APIs and backend systems in C# and ASP.NET Core 8 across e-commerce, warehouse management and aviation. I care about clean architecture, correct data handling under concurrency, and debugging problems down to the root cause.
 
 |  |  |
 |---|---|
 | 💼 **Working at** | Promena LLP |
-| 🔭 **Currently building** | ASP.NET Core Web APIs & Angular applications |
-| 🌱 **Learning** | Entity Framework Core, clean architecture, cloud deployment |
-| 💬 **Ask me about** | C#, ASP.NET Core, SQL, Web API, Angular |
-| 🎯 **Goal** | Grow into a Senior Full Stack .NET Developer |
+| 🔭 **Currently building** | Microservices-based marketplace backend, warehouse and aviation management systems |
+| 🌱 **Learning** | Clean Architecture, Docker, CI/CD, unit testing |
+| 💬 **Ask me about** | C#, ASP.NET Core, Web API, EF Core, MongoDB, JWT auth |
+| 🎯 **Goal** | Grow into a Senior .NET Backend Engineer |
 
 ---
 
@@ -39,53 +39,38 @@ I'm a **Full Stack .NET Developer at Promena LLP**, building web applications en
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py&perline=10" alt="Backend" />
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap&perline=10" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=10" alt="C# and .NET" />
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="MySQL and MongoDB" />
 
 **🧰 Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma&perline=10" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&perline=10" alt="Git, GitHub, Visual Studio, VS Code, Postman" />
+
+`ASP.NET Core 8` `Web API` `Entity Framework Core` `LINQ` `SQL Server` `JWT` `Swagger` `REST APIs`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Zookout**](https://zookout.com) | India's deals and savings platform: verified vouchers and exclusive offers on salons, spas, dining, nightlife and online shopping across cities like Mumbai, Chennai and Bangalore, available on web and mobile apps | `.NET Core` `MongoDB` |
-| [**Aviation**](https://github.com/parthdubeydev/aviation) | Flight and airport management system for handling flight operations, schedules and airport workflows in one application | `.NET Core` `MySQL` `Angular` |
+| [**ZookOut**](https://zookout.com) | Deals and offers marketplace for the Indian market. Built as multiple ASP.NET Core services covering accounts, vendors, users and admin, with role-based JWT auth, push, email and WhatsApp notifications, fuzzy search and reservation limits under concurrent requests | `.NET 8` `MongoDB` `JWT` `Microservices` |
+| **Warehouse & Barcode System** | Live inventory system built from scratch: legacy barcode import from Excel, batch tracking, reports and Excel export, Administrator and Operator roles | `.NET` `EF Core` `MySQL` `JWT` |
+| **Aviation Management System** | Airport and aircraft management: fuel calibration tables, airport-scoped data isolation across outlets, operators and lounges | `.NET` `MySQL` |
 
----
+<!-- Add your open-source flagship here once it is public:
+| [**Offers API**](https://github.com/parthdubeydev/offers-api) | Coupon backend with concurrency-safe reservations, JWT roles, tests and Docker | `.NET 8` `MongoDB` `Docker` |
+-->
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthdubeydev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/parthdubeydev" alt="Contribution chart" />
-</p>
-
-<!-- Optional animated snake (see the setup note below). Delete these 5 lines if you skip it. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthdubeydev/parthdubeydev/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/parthdubeydev/parthdubeydev/output/github-snake.svg" />
-  </picture>
-</p>
+*Employer and client code is private; these descriptions cover the work I contributed to.*
 
 ---
 
 <p align="center">
-  ✨ <i>Open to collaborating on .NET and Angular projects. Let's build something great!</i> ✨
+  ✨ <i>Open to .NET backend roles and API projects. Let's build something reliable!</i> ✨
 </p>
 
 <p align="center">
