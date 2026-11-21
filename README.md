@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:512bd4&height=200&section=header&text=Parth%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=.NET%20Backend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Parth Dubey, .NET Core Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:512bd4&height=200&section=header&text=Parth%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=.NET%20Core%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Parth Dubey, .NET Core Developer" />
 </p>
 
 <p align="center">
